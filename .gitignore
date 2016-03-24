@@ -3,4 +3,4 @@
 /config/app.php
 /tmp/*
 /logs/*
-!/vendor/cheesecake
+!/vendor/celerusit
